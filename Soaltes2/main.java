@@ -29,7 +29,7 @@ public class main {
         int n = w.nextInt();
         System.out.printf("%s", (n>0)?"Angkanya positif":(n<0)?"Angkanya negatif":"Angkanya nol");
     } else {
-        System.out.println("Ganbatte, pilihanmu tidak ada dalam menu");
+        System.out.println(" pilihanmu tidak ada dalam menu");
     }
 }
 
